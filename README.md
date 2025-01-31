@@ -5,8 +5,8 @@ I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Develop
 🌍 **Currently based in**: Oregon, USA  
 📧 **Email**: liamsmith.pro413@gmail.com  
 🔗 **Website**: [https://liam-jin-portfolio.vercel.app](#)  
-💬 **Discord**: [@solomon]
-📲 **Telegram**: [@solomon413]
+💬 **Discord**: [[@solomon](https://discord.com/users/627956888541331525)]
+📲 **Telegram**: [[@solomon413](https://t.me/@solomon0413)]
 
 ## 🚀 What I Do:
 - Develop **Solana** and **Sui** blockchain applications, including DeFi platforms and **smart contracts**.
