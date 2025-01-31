@@ -24,7 +24,7 @@ I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Develop
 - **Development Tools**: Docker, Vercel, AWS
 - **Security**: Smart contract audits, DeFi security best practices
 
-## 💡 Currently Working On:
+## 💡 Currently Work History:
 - **Solana Arbitrage Bot**: A high-performance bot that scans for profitable arbitrage opportunities across multiple DEXes.
 - **Money Transfer Platform**: A decentralized solution for crypto-to-fiat, fiat-to-crypto, and traditional fiat-to-fiat transfers.
 - **Trap Doors**: A Discord bot game that integrates AI-powered interactions for players.
