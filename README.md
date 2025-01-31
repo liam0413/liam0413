@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Liam Smith!
+# 👋 Hi there, I'm Liam!
 
 I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Development**, **DeFi**, and **DEX systems**. I have extensive experience working with **Solana**, **Ethereum**, and **Sui** ecosystems. With a strong background in **JavaScript** and **Python**, I specialize in building high-performance decentralized applications and trading bots.
 
