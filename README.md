@@ -16,12 +16,12 @@ I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Develop
 - Integrate **Web3** and **smart contracts** with real-world applications.
 
 ## 🔧 Technologies & Tools I Use:
-- **Languages**: JavaScript (Node.js, React), TypeScript, Python, Rust
-- **Blockchain**: Solana, Ethereum, Sui, Cosmos, Polkadot
-- **Tools**: Web3.js, Ethers.js, Anchor, Hardhat, Truffle, Supabase
-- **DeFi**: Uniswap, PancakeSwap, Orca, Raydium, Meteora
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **Development Tools**: Docker, Vercel, AWS, GitHub Actions
+- **Languages**: JavaScript (Node.js, React), TypeScript, Python, Rust  
+- **Blockchain**: **Solana**, **Sui**, *Ethereum*
+- **Tools**: **Web3.js**, **Ethers.js**, **Anchor**, **Hardhat**, **Truffle**, Supabase  
+- **DeFi**: **Uniswap**, **PancakeSwap**, **Orca**, **Raydium**, **Meteora**  
+- **Databases**: MongoDB, PostgreSQL, Firebase  
+- **Development Tools**: Docker, Vercel, AWS
 - **Security**: Smart contract audits, DeFi security best practices
 
 ## 💡 Currently Working On:
