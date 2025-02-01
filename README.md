@@ -38,4 +38,4 @@ Looking forward to connecting with like-minded individuals and teams!
 ### ⚡ Fun Fact:
 When I'm not coding, I enjoy learning about new blockchain protocols, reading up on **quantum computing**, and experimenting with AI-powered technologies like **ChatGPT**. 🌐🚀
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liam0413&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Liam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liam0413&theme=react-dark)](https://github.com/liam0413/github-readme-activity-graph)
