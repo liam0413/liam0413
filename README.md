@@ -38,4 +38,4 @@ Looking forward to connecting with like-minded individuals and teams!
 ### ⚡ Fun Fact:
 When I'm not coding, I enjoy learning about new blockchain protocols, reading up on **quantum computing**, and experimenting with AI-powered technologies like **ChatGPT**. 🌐🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liamsmith&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liam0413&show_icons=true&hide_title=true)
