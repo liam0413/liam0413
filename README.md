@@ -5,7 +5,7 @@ I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Develop
 🌍 **Currently based in**: Oregon, USA  
 📧 **Email**: liamsmith.pro413@gmail.com  
 🔗 **Website**: [https://liam-jin-portfolio.vercel.app](#)  
-💬 **Discord**: [[@solomon](https://discord.com/users/627956888541331525)]
+💬 **Discord**: [[@solomon](https://discord.com/users/627956888541331525)]  
 📲 **Telegram**: [[@solomon413](https://t.me/@solomon0413)]
 
 ## 🚀 What I Do:
@@ -21,7 +21,7 @@ I'm a **Web3 & Blockchain Expert** with a deep focus on **Smart Contract Develop
 - **Tools**: **Web3.js**, **Ethers.js**, **Anchor**, **Hardhat**, **Truffle**, Supabase  
 - **DeFi**: **Uniswap**, **PancakeSwap**, **Orca**, **Raydium**, **Meteora**  
 - **Databases**: MongoDB, PostgreSQL, Firebase  
-- **Development Tools**: Docker, Vercel, AWS
+- **Development Tools**: Docker, Vercel, AWS  
 - **Security**: Smart contract audits, DeFi security best practices
 
 ## 💡 Currently Work History:
@@ -38,4 +38,6 @@ Looking forward to connecting with like-minded individuals and teams!
 ### ⚡ Fun Fact:
 When I'm not coding, I enjoy learning about new blockchain protocols, reading up on **quantum computing**, and experimenting with AI-powered technologies like **ChatGPT**. 🌐🚀
 
-[![Liam's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liam0413&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div style="text-align: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liam0413&theme=github_dark" alt="Liam's GitHub Summary"/>
+</div>
